@@ -1,0 +1,19 @@
+{
+  "name": "nftstorage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "esbuild": "^0.14.39",
+    "nft.storage": "^6.2.0",
+    "node-fetch": "^3.2.4"
+  }
+}
